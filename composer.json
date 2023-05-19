@@ -1,18 +1,19 @@
 {
-    "name": "lujewwy/capitalizer",
-    "type": "library",
-    "autoload": {
-        "psr-4": {
-            "Lujewwy\\Capitalizer\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "AlexeyShashkov",
-            "email": "lucky.jew@gmail.com"
-        }
-    ],
-    "require": {
-        "php": ">=7.4"
+  "name": "lujewwy/capitalizer",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Lujewwy\\Capitalizer\\": "src/"
     }
+  },
+  "authors": [
+    {
+      "name": "AlexeyShashkov",
+      "email": "lucky.jew@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "ext-ctype": "*"
+  }
 }
