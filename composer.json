@@ -1,0 +1,16 @@
+{
+    "name": "lujewwy/capitalizer",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Lujewwy\\Capitalizer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AlexeyShashkov",
+            "email": "lucky.jew@gmail.com"
+        }
+    ],
+    "require": {}
+}
