@@ -4,7 +4,7 @@ The library capitalizes all the words in the provided string except the words th
 
 ## Requirements
 
-- PHP 7.4
+- PHP 7.0
 
 ## Installation
 
